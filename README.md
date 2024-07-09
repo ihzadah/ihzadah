@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ihzadah
-- 💻 I am currently in the 7th semester of my studies.
+- 💻 I am currently in the 8th semester of my studies.
 - 👀 I’m interested in Web Programming and UI design
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, and just started learning PHP and laravel framework
 - 💞️ I’m looking to collaborate on beginners web project
